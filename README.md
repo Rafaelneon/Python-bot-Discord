@@ -22,8 +22,12 @@ Antes de iniciar, certifique-se de ter:
 
 - Python 3.10 ou superior
 - pip (gerenciador de pacotes Python)
+  
 
 ---
+## Pacote Obrigatório
+- dotenv
+- discord
 
 ## Instalação
 
